@@ -3,6 +3,12 @@
 
 ---
 
+## **🔎 Personal Profiles**
+**Download CV:** [<span style="display:inline-block;padding:10px 24px;font-size:16px;font-weight:bold;color:#fff;background-color:#2185d0;border-radius:5px;text-decoration:none;border:none;">PDF</span>](https://drive.google.com/file/d/1s0SuEc90YhUSVLRCLSNtYWs4f3_USRks/view?usp=drive_link)
+|:--:|
+
+
+
 ## **🔬 About Me**
 <div align="justify">
 I am a dedicated Biotechnology graduate from the International University - Vietnam National University Ho Chi Minh City, and am currently pursuing a Master’s degree in Biotechnology. My academic training and research experience have fostered a strong commitment to Pharmaceutical Sciences, particularly in their scientific foundations, technological innovation, and translational potential. Through theses and scientific projects, I have developed hands-on experience in natural product extraction, the analysis of bioactive compounds from medicinal plant extracts, in vitro bioactivity assays, and computational simulation of drug–protein interactions, which have strengthened my practical research capability and analytical thinking. My immediate goal is to pursue a PhD in order to deepen my expertise in advanced research methodologies and build a long-term academic career as an independent researcher contributing to future pharmaceutical innovation.
