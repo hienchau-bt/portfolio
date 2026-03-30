@@ -116,4 +116,30 @@ My research interests are centered on **Medicinal Chemistry**, specifically the 
 #### ***Poster Presentation***
 - **Chau, N. T. H.**, & Nguyen, H. K. T. (2023, November). Composition, polyphenol content, antimicrobial and antioxidant activity of *Docynia indica* fruit extract. Fourth Scientific Conference for Students 2023, International University - VNU HCMC, Ho Chi Minh City, Vietnam.
 
+---
 
+## **🧬 Professional Experience**
+- ### **Teaching Assistant** | **International University - Vietnam National University Ho Chi Minh City**
+  |**March 2022 - Present**|
+  |:-----------------:|
+  
+  #### 🔦 ***Courses:***
+  | Analytical Chemistry | Microbiology | Pharmaceutical Biotechnology |
+  |:---:|:---:|:---:|
+  <div align="justify">
+ 
+  + *Description:* Preparing experimental materials for practical classes; Guiding undergraduate students in experimental performance; Monitoring practical sessions for safety compliance; Tracking attendance; Grading assignments/ examinations.
+  </div>
+
+- ### **Laboratory Technician** | **Department of Medical Genetics - Tu Du Hospital**
+  |**June 2019 - September 2019**| **Internship** |
+  |:-----------------:|:---:|
+
+  #### 🔦 ***Technique:***
+  | Non-invasive Prenatal Testing (NIPT)|
+  |:---:|
+  <div align="justify">
+ 
+  + *Description:* Extracting cell-free fetal DNA from maternal blood; Preparing DNA libraries and conducting PCR; Quantifying DNA by electrophoresis; Analyzing DNA by Next-generation sequencing (NGS).
+  </div>
+  
