@@ -8,6 +8,7 @@
 |:--:|
 
 
+---
 
 ## **🔬 About Me**
 <div align="justify">
@@ -35,6 +36,24 @@ My research interests are centered on **Medicinal Chemistry**, specifically the 
   |:-----------------:|
   + ***Bachelor of Science*** | ***Biotechnology***
   + GPA: 75.7/100 (3.07/4.0)
+
+---
+
+## **🔑 Skills & Expertise**
+### **🧫 Wet-lab**
+| Bacterial Cultivation | *In vitro* Bioassays | UV-Vis Spectroscopy | TLC | DNA Extraction | DNA Electrophoresis |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
+| Protein Expression | Protein Purification | SDS-PAGE | Western Blotting |
+|:---:|:---:|:---:|:---:|
+
+### **💻 Dry-lab**
+| Molecular Docking | GraphPad Prism |
+|:---:|:---:|
+
+### **💡 Other Professional Skills**
+| Scientific Writing | Critical Thinking | Data Aanalysis |
+|:---:|:---:|:---:|
 
 ---
 
