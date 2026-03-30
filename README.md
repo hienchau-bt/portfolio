@@ -143,3 +143,15 @@ My research interests are centered on **Medicinal Chemistry**, specifically the 
   + *Description:* Extracting cell-free fetal DNA from maternal blood; Preparing DNA libraries and conducting PCR; Quantifying DNA by electrophoresis; Analyzing DNA by Next-generation sequencing (NGS).
   </div>
   
+---
+
+## **🌟 Honors and Awards**
+- #### **Encouragement Scholarship | International University - Vietnam National University Ho Chi Cinh City**
+  |2018|
+  |:---:|
+
+---
+
+## **🌏 Languages**
+- **Vietnamese** (Native)
+- **English** (IELTS 6.0)
